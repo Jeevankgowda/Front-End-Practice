@@ -1,0 +1,13 @@
+HTML Tags: They are used to define the elements.
+
+HTML Attribute:  They provide the extra information about the element.
+
+ex: id, class, style
+
+<p id="header"> html defination</p>
+
+1. <h1></h1>
+2. <p></p>
+3. <br> Line breaker
+4. <hr> Create Horizantal line
+5. <image src="" alt="" height=""> create the image
