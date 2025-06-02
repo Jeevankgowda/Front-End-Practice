@@ -11,3 +11,4 @@ ex: id, class, style
 3. <br> Line breaker
 4. <hr> Create Horizantal line
 5. <image src="" alt="" height=""> create the image
+6. <video src="Assests\002 Work Items.mp4" height="300px" autoplay controls \></video>
